@@ -1,4 +1,4 @@
-# Murali Task 1 - Bootstrap 5 UI Project
+# KeshavSoft - Bootstrap 5 UI Project
 
 ## Project Overview
 This project is a responsive website built using Bootstrap 5, featuring a dark theme with black background. It consists of three pages: Home, About, and Contact, designed to be professional and modern.
