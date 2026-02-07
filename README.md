@@ -11,7 +11,8 @@ This project is a responsive multi-page website built using Bootstrap 5, featuri
 
 ## File Structure
 - `index.html` - Home page with navbar, hero section, features, and footer
-- `about.html` - About page with services overview and list groups
+- `about.html` - About page with services overview, why choose us, and goals
+- `features.html` - Features page with detailed feature explanations and goals section
 - `contact.html` - Contact page with contact information and form
 - `README.md` - This file
 
@@ -49,11 +50,11 @@ This project is a responsive multi-page website built using Bootstrap 5, featuri
 
 ## Total Time Taken
 - Planning and setup: 1 hour
-- Building pages: 4 hours
-- Styling and enhancements: 2 hours
+- Building pages: 5 hours
+- Styling and enhancements: 3 hours
 - Documentation: 1 hour
 - Testing and deployment: 1 hour
-- **Total: 9 hours**
+- **Total: 11 hours**
 
 ## Live Demo
 [https://muralimohan5.github.io/task-1new](https://muralimohan5.github.io/task-1new)
