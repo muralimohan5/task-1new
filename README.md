@@ -1,7 +1,7 @@
 # KeshavSoft - Bootstrap 5 UI Project
 
 ## Project Overview
-This project is a responsive multi-page website built using Bootstrap 5, featuring a dark theme with black background. It consists of three pages: Home, About, and Contact, designed to be professional and modern.
+This project is a responsive multi-page website built using Bootstrap 5. It consists of four pages: Home, About, Features, and Contact, designed to be professional and modern.
 
 ## Technologies Used
 - HTML5
